@@ -7,7 +7,7 @@ const userInput = readline.createInterface({input, output});
 
 
 // Voeg hier je eigen code in
-
-
+let sum = 2 + 2 ;
+console.log(sum);
 
 process.exit();
